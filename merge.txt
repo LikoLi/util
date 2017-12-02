@@ -2,4 +2,3 @@ merge test`
 
 文件只有commit之后才能和其他分支做对比, 也就是说, diff 对比的是commit的数据.
 
-fasflskalfksljf
